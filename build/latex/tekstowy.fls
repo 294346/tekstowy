@@ -336,10 +336,17 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvr.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
-INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmbi.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmri.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qtmr.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvr.tfm
+INPUT /usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
+INPUT /usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
+INPUT /usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ts1-qtmb.tfm
 INPUT ./tekstowy.ind
 INPUT ./tekstowy.ind
 INPUT tekstowy.ind
+INPUT /usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc
 INPUT tekstowy.aux
 INPUT ./tekstowy.out
 INPUT ./tekstowy.out
@@ -347,6 +354,6 @@ INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qhvbi.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb
-INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmbi.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb
+INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmri.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb

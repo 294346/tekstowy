@@ -2,3 +2,5 @@
 \contentsline {chapter}{\numberline {1}Przyk?adowy dokument}{3}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Dokument, kt?ry b?d? u?ywa? na zaj?ciach.}{3}{section.1.1}%
 \contentsline {chapter}{\numberline {2}Nag??wek 1}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Nag??wek 2}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Nag??wek 3}{5}{subsection.2.1.1}%
